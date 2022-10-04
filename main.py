@@ -1,0 +1,5 @@
+your_name = input("What is your name?:")
+print("My name is,Dre")
+Year = input("What is your birth year?:")
+my_age = ("You are 20 years old Dre")
+print(my_age)
